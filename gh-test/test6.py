@@ -1,0 +1,1 @@
+privKey = "AKIAF6BAFJKR45SAWSZ5"
