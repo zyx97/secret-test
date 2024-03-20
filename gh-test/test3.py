@@ -1,5 +1,5 @@
 import aws_lib
-"AKIAF6BAFJKR45SAWSZ5"
+aws_lib.connect("AKIAF6BAFJKR45SAWSZ5")
 
 
 
